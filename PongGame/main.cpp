@@ -137,7 +137,7 @@ public:
 
 int main()
 {
-    cout << "Starting the game!" << endl;
+    cout << "This is my first C++ Project ever. A pong game with Raylib! Cool right?" << endl;
 
     const int screen_width = 1280, screen_height = 800;
     InitWindow(screen_width, screen_height, "Bamo's Pong Game");
